@@ -16,6 +16,6 @@ A context memory layer for LLMs — persistent, structured memory that makes AI 
 
 Currently :
 
-> Grinding DSA in Java
-> Learning System Design (Backend)
-> Actively looking for SWE / Full-Stack / Backend internships
+> Grinding DSA in Java,
+>  Learning System Design (Backend), 
+>  Actively looking for SWE / Full-Stack / Backend internships
