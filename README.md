@@ -1,16 +1,21 @@
-## Hi there 👋
+Hey, I'm Aditya 👋
+B.Tech CSE (AI & ML) · KCC Institute of Technology & Management, Delhi NCR
+Building backend architecture's and Full-Stack applications.
 
-<!--
-**Adityajs1/Adityajs1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠 Tech Stack
+Frontend — Next.js, React, TypeScript, Tailwind CSS
+Backend — Node.js, Express, REST APIs
+Databases — MongoDB, PostgreSQL, Redis
+Other — JWT Auth, Cloudinary, Mongoose, Leaflet.js, Framer Motion
 
-Here are some ideas to get you started:
+🚀 Projects
+Harvey
+Loan analyzer web app with a dark fintech UI — Recharts, Framer Motion, Tailwind.
+Neuron
+A context memory layer for LLMs — persistent, structured memory that makes AI conversations stateful across sessions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 Currently
+
+📦 Grinding DSA in Java
+🏗 Learning System Design (Backend)
+🎯 Actively looking for SWE / Full-Stack / Backend internships
