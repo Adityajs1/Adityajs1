@@ -6,7 +6,7 @@ Building backend architecture's and Full-Stack applications.
 Next.js, React, TypeScript
 Node.js, Express, REST APIs
 MongoDB, PostgreSQL, Redis
-JWT Auth, Cloudinary, Mongoose, Leaflet.js, Framer Motion
+JWT Auth, Mongoose, Leaflet.js, Framer Motion
 
 🚀 Projects
 
